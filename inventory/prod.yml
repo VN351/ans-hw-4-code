@@ -1,0 +1,16 @@
+---
+clickhouse:
+  hosts:
+    clickhouse-01:
+      ansible_host: 51.250.0.122
+      ansible_user: fedora
+vector:
+  hosts:
+    vector-01:
+      ansible_host: 89.169.131.240
+      ansible_user: fedora
+lighthouse:
+  hosts:
+    lighthouse-01:
+      ansible_host: 158.160.52.165
+      ansible_user: fedora
