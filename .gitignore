@@ -1,3 +1,5 @@
 # Local .terraform directories and files
 vector-role/
 lighthouse-role/
+group_vars/
+templates/
